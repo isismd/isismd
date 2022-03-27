@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <h4> Hey! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+  <h4> Hey! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="25px"></h4>
 </p>
 
 <p align="left">
@@ -9,5 +9,9 @@
 </p>
 
 <p align="left">
- 🎈 Learning: HTML, CSS and JavaScript  
+ 🎈 Learning: HTML, CSS, JavaScript and Python.
+</p>
+
+<p align="left">
+ 📩 Linkedin: https://www.linkedin.com/in/isisdaron/
 </p>
