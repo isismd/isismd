@@ -1,5 +1,5 @@
 ## Hey!
-<p> 🚀 My name is Isis, I'm currently studying <strong> System Analysis and Development</strong>. </p>
+<p> 🚀 My name is Isis, I'm currently studying <strong> Computer Science</strong> and <strong> System Analysis and Development</strong>. </p>
 <p> 🎨 Trainee Front-End Developer. </p>
 <p> 📚 EN • PT-BR </p>
 <p> 📩 Linkedin: https://www.linkedin.com/in/isisdaron/ </p>
