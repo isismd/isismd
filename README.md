@@ -4,5 +4,5 @@
 <p> 📩 LinkedIn: https://www.linkedin.com/in/isisdaron/ </p>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=isismd&count_private=true&theme=dracula&show_icons=true&hide=prs&rank_icon=github" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=isismd&layout=compact&theme=dracula&hide_progress=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isismd&hide=html&%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&theme=transparent&title_color=ad63a0&text_color=a6a1a6" /> | <img width="400em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=isismd&theme=transparent&hide_border=true&hide=markdown,html,json,other&title_color=ad63a0&text_color=a6a1a6&line_height=40" /> |
 | ------------- | ------------- |
