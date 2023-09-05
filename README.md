@@ -5,10 +5,7 @@
     </a>
   <a href="https://www.behance.net/isismd">
       <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&style=social" alt="Behance">
-    </a>
-   <a href="https://steamcommunity.com/profiles/76561199224675719/">
-      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&style=social" alt="Steam">
-    </a>
+  </a>
     <a href="https://wakatime.com/@isismd">
         <img src="https://wakatime.com/badge/user/e32e8020-ddf2-40ad-8032-0eb24a5ebb6e.svg?style=social" alt="Wakatime">
     </a>
@@ -20,11 +17,7 @@ Olá :wave:
 
 Meu nome é Isis Daron, atualmente estou cursando graduação em Ciência da Computaçãoe focando meus estudos em aprender e aprimorar habilidades em Desenvolvimento Front-End. 
 
-Atualmente, estou trabalhando como estagiária em TI onde estou desenvolvendo aplicações com Vue e Quasar. Anteriormente já tive experiência com o desenvolvimento utilizando Angular, onde pude criar páginas web dinâmicas e responsivas. 
-
-Além disso, no tempo livre estou dedicada a estudar e aprofundar meus conhecimentos em Design UX/UI, buscando compreender como criar interfaces intuitivas e envolventes para os usuários. Gosto de fazer alguns projetos e publicar no Behance, hoje em dia estou focada em construir o design do meu futuro portfólio.
-
-Fora dos estudos, gosto de jogar, fazer academia, cozinhar, ler livros e ter tempo de qualidade com meus familiares e amigos. ❤
+Atualmente, estou trabalhando como estagiária em TI onde estou desenvolvendo aplicações com Vue e Quasar. No tempo livre estou dedicada a estudar e aprofundar meus conhecimentos em Design UX/UI, buscando compreender como criar interfaces intuitivas e envolventes para os usuários. Gosto de fazer alguns projetos e publicar no Behance, hoje em dia estou focada em construir o design do meu futuro portfólio.
 
 ---
 <div align="center">
