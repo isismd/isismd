@@ -17,8 +17,6 @@ Olá :wave:
 
 Meu nome é Isis Daron, atualmente estou cursando graduação em Ciência da Computaçãoe focando meus estudos em aprender e aprimorar habilidades em Desenvolvimento Front-End. 
 
-Atualmente, estou trabalhando como estagiária em TI onde estou desenvolvendo aplicações com Vue e Quasar. No tempo livre estou dedicada a estudar e aprofundar meus conhecimentos em Design UX/UI, buscando compreender como criar interfaces intuitivas e envolventes para os usuários. Gosto de fazer alguns projetos e publicar no Behance, hoje em dia estou focada em construir o design do meu futuro portfólio.
-
 ---
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
