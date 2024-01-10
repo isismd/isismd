@@ -13,17 +13,19 @@
 
 <br/>
 
-Olá :wave:
+### Hi :wave:
 
-Meu nome é Isis Daron, atualmente estou cursando graduação em Ciência da Computação e focando meus estudos em aprender e aprimorar habilidades em Desenvolvimento Front-End. 
+I'm Isis Daron, a two-year Front-End developer and Computer Science student.
+
+🌱 What I'm Currently Working On
+
+I'm currently focused on learning Next.js and have experience working with Vue and Angular. I also like to venture into the world of Web Design and have a great interest in machine learning algorithms and data analysis.
 
 ---
+
+
 <div align="center">
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,angular,next,react,python,java,figma" />
+  </a>
 </div>
