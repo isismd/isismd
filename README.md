@@ -1,11 +1,8 @@
-<h1 align="center"> Isis Daron </h1>
+<h2 align="center"> Isis Daron </h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/isisdaron/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&style=social" alt="Wakatime">
     </a>
-  <a href="https://www.behance.net/isismd">
-      <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&style=social" alt="Behance">
-  </a>
     <a href="https://wakatime.com/@isismd">
         <img src="https://wakatime.com/badge/user/e32e8020-ddf2-40ad-8032-0eb24a5ebb6e.svg?style=social" alt="Wakatime">
     </a>
@@ -13,16 +10,18 @@
 
 <br/>
 
-### Hi :wave:
+I'm Isis Daron, a Front-End developer and Computer Science student at the Federal University of Mato Grosso. I have been in the front-end development world for two years, and for the past six months, I have been working as an Development Intern, primarily utilizing Vue framework. Additionally, I actively contribute as a volunteer developer at my university's junior company, where we use React library.
 
-I'm Isis Daron, a two-year Front-End developer and Computer Science student.
 
-🌱 What I'm Currently Working On
+-`🪐´- Current Focus:
 
-I'm currently focused on learning Next.js and have experience working with Vue and Angular. I also like to venture into the world of Web Design and have a great interest in machine learning algorithms and data analysis.
+I am currently dedicated to enhancing my Front-End skills by delving deeper into JavaScript-based libraries and frameworks (mostly Vue and Next.js). I also like to venture into the world of Web Design (check my [Behance](https://www.behance.net/isismd) >ᴗ<) and have a great interest in machine learning algorithms and data analysis.
+
+-`💌´- How to Reach Me:
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isisdaron/) or drop me an [email](mailto:daronisism@gmail.com).
 
 ---
-
 
 <div align="center">
   <a href="https://skillicons.dev">
