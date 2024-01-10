@@ -19,7 +19,7 @@ I am currently dedicated to enhancing my Front-End skills by delving deeper into
 
 -`💌´- How to Reach Me:
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isisdaron/) or drop me an [email](mailto:daronisism@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isisdaron/) or drop me an [email](mailto:daronisism@gmail.com). I'm passionate about the open-source community and always open to collaboration or discussions about exciting projects ₍ᐢ. ̫ .ᐢ₎
 
 ---
 
