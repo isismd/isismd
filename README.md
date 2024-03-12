@@ -15,11 +15,11 @@ I'm Isis Daron, a Front-End developer and Computer Science student at the Federa
 
 -`🪐´- Current Focus:
 
-I am currently dedicated to enhancing my Front-End skills by delving deeper into JavaScript-based libraries and frameworks (mostly Vue and Next.js). I also like to venture into the world of Web Design (check my [Behance](https://www.behance.net/isismd) >ᴗ<) and have a great interest in machine learning algorithms and data analysis.
+I am currently dedicated to enhancing my Front-End skills by delving deeper into JavaScript-based libraries and frameworks (mostly Vue and Next.js). I also like to venture into the world of Web Design (check my [Behance](https://www.behance.net/isismd)) and have a great interest in machine learning algorithms and data analysis.
 
 -`💌´- How to Reach Me:
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isisdaron/), check my [CV online](https://read.cv/isisdaron) or drop me an [email](mailto:contato.isisdaron@gmail.com). I'm passionate about the open-source community and always open to collaboration or discussions about exciting projects ₍ᐢ. ̫ .ᐢ₎
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isisdaron/), check my [CV online](https://read.cv/isisdaron) or drop me an [email](mailto:contato.isisdaron@gmail.com).
 
 ---
 
