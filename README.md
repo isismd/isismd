@@ -12,6 +12,8 @@
 
 I'm Isis Daron, a Front-End developer and Computer Science student at the Federal University of Mato Grosso. I entered the development world in late 2021, and for the past months I have been working as an Front-End Intern, primarily utilizing the Vue framework. Additionally, I actively contribute as a volunteer developer at my university's junior company, where we use React library.
 
+I also offer freelance services in web development, bringing expertise in both design and technical implementation to create responsive, user-friendly websites and applications.
+
 
 -`🪐´- Current Focus:
 
