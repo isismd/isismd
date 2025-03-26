@@ -1,27 +1,9 @@
 <h2 align="center"> Isis Daron </h2>
-<div align="center">
-    <a href="https://www.linkedin.com/in/isisdaron/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&style=social" alt="Wakatime">
-    </a>
-    <a href="https://wakatime.com/@isismd">
-        <img src="https://wakatime.com/badge/user/e32e8020-ddf2-40ad-8032-0eb24a5ebb6e.svg?style=social" alt="Wakatime">
-    </a>
-</div>
-
 <br/>
-
-I'm Isis Daron, a Front-End developer and Computer Science student at the Federal University of Mato Grosso. I entered the development world in late 2021, and for the past months I have been working as an Front-End Intern, primarily utilizing the Vue framework. Additionally, I actively contribute as a volunteer developer at my university's junior company, where we use React library.
-
-I also offer freelance services in web development, bringing expertise in both design and technical implementation to create responsive, user-friendly websites and applications.
-
-
--`🪐´- Current Focus:
-
-I am currently dedicated to enhancing my Front-End skills by delving deeper into JavaScript-based libraries and frameworks (mostly Vue and React with Next.js). 
 
 -`💌´- How to Reach Me:
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isisdaron/), check my [CV online](https://read.cv/isisdaron) or drop me an [email](mailto:contato.isisdaron@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isisdaron/), check my [website](https://isisdaron.vercel.app) or drop me an [email](mailto:contato.isisdaron@gmail.com).
 
 ---
 
